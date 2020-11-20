@@ -8,3 +8,4 @@
 - then we need to clear the array of bytes of y every 120+ms , so those addresses will update every time
 - use readprocessMemory to get the array of bytes of y , every 4bytes in y , is an address was inside eax .
 - after storing all those addresses make a function to remove the duplicated addresses .
+- the other way is writing a debugger..
